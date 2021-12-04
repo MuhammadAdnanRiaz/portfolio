@@ -17,7 +17,7 @@ export default function Header() {
           DESIGNER + DEVELOPER 👨‍💻
         </span>
         <span className="block pb-4 text-gray-500 sm:text-sm w-64">
-          I’m a design minded front-end developer based in Lagos, Nigeria.
+          I’m a design minded front-end developer based in Islamabad, Pakistan.
         </span>
         <a
           href="#contact"
